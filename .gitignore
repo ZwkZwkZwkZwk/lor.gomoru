@@ -1,0 +1,17 @@
+build/
+dist/
+*.o
+*.a
+*.dylib
+*.so
+*.dll
+*.exe
+*.tmp
+*.gmk
+*.gmk.tmp.*
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*
+!**/.env.example
